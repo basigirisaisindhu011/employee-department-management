@@ -253,7 +253,7 @@ Example:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/employee-management.git
+git clone https://github.com/basigirisaisindhu011/employee-management.git
 ```
 
 ### Navigate to Project
@@ -269,7 +269,7 @@ Update `application.properties`
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/employee_management
 spring.datasource.username=root
-spring.datasource.password=your_password
+spring.datasource.password=NKSS73@nsks96
 
 spring.jpa.hibernate.ddl-auto=update
 ```
